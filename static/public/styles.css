@@ -1117,24 +1117,3 @@ textarea:focus-visible{
 #volume-control:focus-visible {
   box-shadow: 0;
 }
-
-#ads{
-  z-index: 2;
-  position: relative;
-  overflow: hidden;
-}
-
-#adleft{
-  z-index: 2;
-  position: fixed;
-  overflow: hidden;
-  left: 0;
-  top: 22%;
-}
-#adright{
-  z-index: 2;
-  position: fixed;
-  overflow: hidden;
-  right: 0;
-  top: 22%;
-}
